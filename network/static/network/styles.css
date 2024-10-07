@@ -1,0 +1,33 @@
+.navbar-custom {
+    background-color: #B5CFD8;
+}
+
+
+.space {
+    margin: 20px;
+}
+
+
+.rectangle-frame {
+    margin: 20px;
+    padding: 20px;
+    border: 0.5px solid #EEEDEB;  /* Border color and thickness #EEEDEB */
+    box-sizing: border-box;  /* Include border in the element's total width and height */
+    border-radius: 5px; /* Rounded corners for the inner border */
+    background-color: #F9F5F6;   /* Background color #F5F7F8 F9F9F9*/
+}
+
+
+.rectangle-color {
+    background-color: #F5F7F8;   /* Background color #F5F7F8 */
+}
+
+
+.grey-text {
+    color: grey;
+    font-size: 14px;
+}
+
+#create-post-form {
+    display: block;
+}
